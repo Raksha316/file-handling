@@ -1,6 +1,6 @@
 package com.rakshaa;
 import java.io.File;
-public class C2  {
+public class DisplayFileDir  {
 	public static void main(String[] args) throws Exception{
 		
 		File f = new File("C:\\Users\\DELL\\Desktop\\loction");

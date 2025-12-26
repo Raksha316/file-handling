@@ -1,7 +1,7 @@
 package com.rakshaa;
 import java.io.File;
 import java.io.IOException;
-public class C1 {
+public class CreateFileinFolder {
 	public static void main(String[] args) {
 
 		File f = new File("data");
